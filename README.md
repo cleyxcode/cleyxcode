@@ -33,7 +33,6 @@
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
 
 
-A
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
